@@ -1,0 +1,6 @@
+.DS_STORE
+server/node_modules
+websockets/.idea
+websockets/.gradle
+websockets/build
+websockets/gradle
